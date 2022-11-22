@@ -79,7 +79,8 @@ namespace glm
 
 	// -- Conversion constructors --
 
-	template<typename T, qualifier Q>
+	template<typename 
+		T, qualifier Q>
 	template<
 		typename X1, typename Y1, typename Z1,
 		typename X2, typename Y2, typename Z2,

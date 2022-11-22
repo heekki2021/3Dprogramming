@@ -192,7 +192,7 @@ void Update()
         rot1 = rot1 + 1;
 ;
         transform.rotation = glm::mat3(
-            glm::cos(glm::radians(rot1)), -glm::sin(glm::radians(rot1)), 0,
+            glm::cos (glm::radians(rot1)), -glm::sin(glm::radians(rot1)), 0,
             glm::sin(glm::radians(rot1)), glm::cos(glm::radians(rot1)), 0,
             0, 0, 1
         );
