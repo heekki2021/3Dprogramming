@@ -221,7 +221,8 @@ void Update()
             0, 0, 1
         );
 
-
+        float test1 = glm::sin(glm::radians(1.0f));
+        cout << test1 << "test\n";
 
         //색 초기화
         glClearColor(.0f, 0.0f, 0.0f, 0.1f);

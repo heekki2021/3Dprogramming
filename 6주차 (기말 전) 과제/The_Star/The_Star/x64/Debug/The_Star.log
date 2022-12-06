@@ -1,14 +1,14 @@
 ﻿  star1.cpp
-C:\Users\BSJ\source\repos\3Dprogramming\기말 전 과제\The_Star\The_Star\star1.cpp(118,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\3dprogramming\3Dprogramming\6주차 (기말 전) 과제\The_Star\The_Star\star1.cpp(118,69): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
           with
           [
               T=float
           ]
-C:\Users\BSJ\source\repos\3Dprogramming\기말 전 과제\The_Star\The_Star\star1.cpp(119,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\3dprogramming\3Dprogramming\6주차 (기말 전) 과제\The_Star\The_Star\star1.cpp(119,68): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
           with
           [
               T=float
           ]
-C:\Users\BSJ\source\repos\3Dprogramming\기말 전 과제\The_Star\The_Star\star1.cpp(202,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\BSJ\source\repos\3Dprogramming\기말 전 과제\The_Star\The_Star\star1.cpp(275,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  The_Star.vcxproj -> C:\Users\BSJ\source\repos\3Dprogramming\기말 전 과제\The_Star\x64\Debug\The_Star.exe
+D:\3dprogramming\3Dprogramming\6주차 (기말 전) 과제\The_Star\The_Star\star1.cpp(202,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\3dprogramming\3Dprogramming\6주차 (기말 전) 과제\The_Star\The_Star\star1.cpp(276,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  The_Star.vcxproj -> D:\3dprogramming\3Dprogramming\6주차 (기말 전) 과제\The_Star\x64\Debug\The_Star.exe

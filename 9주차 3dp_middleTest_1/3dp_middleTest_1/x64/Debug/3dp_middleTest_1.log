@@ -1,3 +1,12 @@
 ﻿  maincpp.cpp
 D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\maincpp.cpp(5,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  3dp_middleTest_1.vcxproj -> D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\x64\Debug\3dp_middleTest_1.exe
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(144): error C4716: 'bsj::Transpose': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(151): error C4716: 'bsj::Transpose': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(148): error C4716: 'bsj::Transpose': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(141): error C4716: 'bsj::Transpose': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(204): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(208): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(243): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(246): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(250): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
+D:\3dprogramming\3Dprogramming\9주차 3dp_middleTest_1\3dp_middleTest_1\MusoenMath.hpp(254): error C4716: 'bsj::operator*': 값을 반환해야 합니다.
